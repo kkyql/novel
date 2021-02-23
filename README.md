@@ -24,4 +24,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 演示
-(http://635231.haituie.cn/635231/zsnovel.gif).
+See [demonstration](http://635231.haituie.cn/635231/zsnovel.gif).
